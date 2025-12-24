@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Stole My Heart",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:21:56.586897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Stole My Heart",
+      "artist": "Company B",
+      "has_synced": false,
+      "path": "select/01_You_Stole_My_Heart_Company_B.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Stole My Heart Away",
+      "artist": "Niki & The Dove",
+      "has_synced": false,
+      "path": "select/02_You_Stole_My_Heart_Away_Niki_&_The_Dove.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stole My Heart",
+      "artist": "Beasts With No Name",
+      "has_synced": true,
+      "path": "select/03_Stole_My_Heart_Beasts_With_No_Name.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stole My Heart (Explicit)",
+      "artist": "Beasts With No Name",
+      "has_synced": true,
+      "path": "select/04_Stole_My_Heart_(Explicit)_Beasts_With_No_Name.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cool Blue Stole My Heart",
+      "artist": "Joan Armatrading",
+      "has_synced": false,
+      "path": "select/05_Cool_Blue_Stole_My_Heart_Joan_Armatrading.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stole My Heart",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/06_Stole_My_Heart_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stole My Heart",
+      "artist": "Akcent feat. Reea",
+      "has_synced": true,
+      "path": "select/07_Stole_My_Heart_Akcent_feat._Reea.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stole My Heart (feat. Reea)",
+      "artist": "Akcent, Reea",
+      "has_synced": true,
+      "path": "select/08_Stole_My_Heart_(feat._Reea)_Akcent,_Reea.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Girl Who Stole My Heart",
+      "artist": "Blue October",
+      "has_synced": true,
+      "path": "select/09_The_Girl_Who_Stole_My_Heart_Blue_October.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stole My Heart - One Direction FULL Song",
+      "artist": "one direction",
+      "has_synced": true,
+      "path": "select/10_Stole_My_Heart_-_One_Direction_FULL_Song_one_direction.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Stole My Heart",
+      "artist": "Maddie Poppe",
+      "has_synced": true,
+      "path": "select/11_You_Stole_My_Heart_Maddie_Poppe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Stole My Heart",
+      "artist": "Rose Falcon",
+      "has_synced": false,
+      "path": "select/12_You_Stole_My_Heart_Rose_Falcon.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cool Blue Stole My Heart",
+      "artist": "Joan Armatrading",
+      "has_synced": true,
+      "path": "select/13_Cool_Blue_Stole_My_Heart_Joan_Armatrading.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stole My Heart",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Stole_My_Heart_One_Direction.txt"
+    }
+  ]
+}
